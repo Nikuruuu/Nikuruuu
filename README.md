@@ -1,6 +1,6 @@
 # Hi there, I'm Jeremiah Dela Cruz 👋
 
-Software Developer focused on engineering responsive, high-performance web applications and scalable digital solutions.
+Software Developer focused on building responsive, high-performance web applications and scalable digital solutions.
 
 - 🔭 Currently building: Full-stack web platforms using Next.js, React, and Node.js
 - 🌱 Exploring: Advanced UI performance, backend architecture, and database optimizations
